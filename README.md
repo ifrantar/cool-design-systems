@@ -1,5 +1,5 @@
 # Cool Design Systems
 
-A collection of cool design systems on Github
+A collection of cool design systems, grids and frameworks.
 
 
