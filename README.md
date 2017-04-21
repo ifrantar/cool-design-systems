@@ -2,6 +2,7 @@
 
 A collection of cool design systems, grids and frameworks.
 
+- [Polaris - Shopify’s product component library](https://polaris.shopify.com/)
 - [Carbon Design System](https://github.com/carbon-design-system)
 - [Salesforce Lightning Design System](https://github.com/salesforce-ux/design-system)
 - [Open source UI components and visual style guide for U.S. government websites](https://github.com/18F/web-design-standards)
