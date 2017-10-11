@@ -2,6 +2,7 @@
 
 A collection of cool design systems, grids and frameworks.
 
+- [Ionic framework design guidelines](https://ionicframework.com/docs/)
 - [Lost My Name Design System](http://design-system.lostmy.name)
 - [Mixpanel Product Styleguide](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new/)
 - [Microsoft: Fluent Design System](https://developer.microsoft.com/en-us/windows/apps/design)
