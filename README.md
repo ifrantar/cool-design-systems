@@ -24,6 +24,7 @@ A collection of cool design systems, grids and frameworks.
 - [Photon Design System - Firefox](http://design.firefox.com/photon/welcome.html)
 - [Shards - UI toolkit](https://designrevision.com/downloads/shards/)
 - [Duolingo Design Guidelines](http://www.duolingo.com/design/)
+- [Lab 21 Design Guide](https://www.blog.lab21.gr/design-guide)
 
 
 
