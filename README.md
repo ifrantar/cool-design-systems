@@ -25,6 +25,7 @@ A collection of cool design systems, grids and frameworks.
 - [Shards - UI toolkit](https://designrevision.com/downloads/shards/)
 - [Duolingo Design Guidelines](http://www.duolingo.com/design/)
 - [Lab 21 Design Guide](https://www.blog.lab21.gr/design-guide)
+- [Github Style Guide](https://styleguide.github.com/primer/)
 
 
 
