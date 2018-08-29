@@ -26,6 +26,7 @@ A collection of cool design systems, grids and frameworks.
 - [Duolingo Design Guidelines](http://www.duolingo.com/design/)
 - [Lab 21 Design Guide](https://www.blog.lab21.gr/design-guide)
 - [Github Style Guide](https://styleguide.github.com/primer/)
+- [Ant Design System](https://ant.design/docs/spec/introduce)
 
 
 
