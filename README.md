@@ -10,6 +10,7 @@ A collection of cool design systems, grids and frameworks.
 - [Blueprint - A React-based UI Toolkit for the web](http://blueprintjs.com)
 - [Pivotal Styleguides](http://styleguide.pivotal.io)
 - [Buzzfeed Solid](http://solid.buzzfeed.com)
+- [Zendesk Garden](https://garden.zendesk.com)
 - [Polaris - Shopify’s product component library](https://polaris.shopify.com/)
 - [Carbon Design System](https://github.com/carbon-design-system)
 - [Salesforce Lightning Design System](https://github.com/salesforce-ux/design-system)
