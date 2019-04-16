@@ -4,7 +4,7 @@ A collection of cool design systems, grids and frameworks.
 
 - [Ionic framework design guidelines](https://ionicframework.com/docs/)
 - [Lost My Name Design System](http://design-system.lostmy.name)
-- [Mixpanel Product Styleguide](http://mixpanel.github.io/mixpanel-common/examples/style-guide-new/)
+- [Mixpanel Design System](https://design.mixpanel.com/)
 - [Microsoft: Fluent Design System](https://developer.microsoft.com/en-us/windows/apps/design)
 - [Atlassian Design](https://atlassian.design)
 - [Blueprint - A React-based UI Toolkit for the web](http://blueprintjs.com)
