@@ -21,7 +21,7 @@ A collection of cool design systems, grids and frameworks.
 - [Clarity Design System: UX guidelines, HTML/CSS framework, and Angular 2 components working together to craft exceptional experiences](https://github.com/vmware/clarity)
 - [React Styleguidist](https://react-styleguidist.js.org)
     - [Constructicon](https://everydayhero.github.io/constructicon/) <-- this one is interesting.
-- [Photon Design System - Firefox](http://design.firefox.com/photon/welcome.html)
+- [Firefox Design System](https://design.firefox.com/)
 - [Shards - UI toolkit](https://designrevision.com/downloads/shards/)
 - [Duolingo Design Guidelines](http://www.duolingo.com/design/)
 - [Lab 21 Design Guide](https://www.blog.lab21.gr/design-guide)
