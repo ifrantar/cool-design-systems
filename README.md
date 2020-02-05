@@ -36,6 +36,7 @@ A collection of cool design systems, grids and frameworks.
 - [Priceline One](https://pricelinelabs.github.io/design-system/)
 - [Starbucks Branding Guidelines](https://creative.starbucks.com/) <-- This is not a design system perse, but I like how it has been put together.
 - [Yoga Layout](https://yogalayout.com/) <-- Flexible layout system develop by Facebook
+- [CoOp Design System](https://coop-design-system.herokuapp.com)
 
 
 
