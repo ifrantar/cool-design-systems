@@ -38,6 +38,7 @@ A collection of cool design systems, grids and frameworks.
 - [Yoga Layout](https://yogalayout.com/) <-- Flexible layout system develop by Facebook
 - [CoOp Design System](https://coop-design-system.herokuapp.com)
 - [Goldman Sachs Design System](https://design.gs.com/d/)
+- [Duet Design System](https://www.duetds.com)
 
 
 
