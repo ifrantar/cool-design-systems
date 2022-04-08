@@ -43,6 +43,7 @@ A collection of cool design systems, grids and frameworks.
 - [Base Design System from Uber](https://base.uber.com)
 - [SAP Design System and UX guidelines](https://experience.sap.com/fiori-design/)
 - [Wanda Design System](https://design.wonderflow.ai)
+- [Pinterest's Design System](https://gestalt.pinterest.systems/)
 
 
 
